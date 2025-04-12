@@ -23,7 +23,7 @@ This project is an interactive Power BI dashboard that analyzes sales performanc
 ## 📁 Files Included
 - `Sales_Data_Dashboard.pbix` — Power BI dashboard file
 - `sales_data_sample.csv` — Dataset used
-- `images/` — Screenshots of the dashboard (optional)
+- `images/` — Screenshots of the dashboard 
 
 ## 📷 Dashboard Preview
 ![Dashboard Screenshot](Salesdashboard-preview.png)
